@@ -1,0 +1,25 @@
+{
+  "name": "indexes",
+  "version": "0.0.0",
+  "description": "项目索引页",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangciwei/indexes.git"
+  },
+  "keywords": [
+    "索引页"
+  ],
+  "bin": {
+    "indexes": "bin/node.js"
+  },
+  "author": "tangciwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangciwei/indexes/issues"
+  },
+  "homepage": "https://github.com/tangciwei/indexes#readme"
+}
